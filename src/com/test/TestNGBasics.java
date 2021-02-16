@@ -22,7 +22,7 @@ public class TestNGBasics {
 	Delete all cookies
 	PASSED: googleTitleTest
 	
-	//multiple test cases -it randomly picks the test cases --it will create pair
+	//////multiple test cases -it randomly picks the test cases --it will create pair
 	 
 	
 	@BeforeMethod

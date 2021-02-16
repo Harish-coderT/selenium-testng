@@ -43,7 +43,7 @@ public class GoogleTest {
 	public void linkTest() {
 		
 		Boolean b = driver.findElement(By.linkText("Gmal")).isDisplayed();
-	}
+	}//
 	@AfterMethod
 	public void tearDown() {
 		

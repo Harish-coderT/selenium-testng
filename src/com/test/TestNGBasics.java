@@ -21,7 +21,7 @@ public class TestNGBasics {
 	Close Browser
 	Delete all cookies
 	PASSED: googleTitleTest
-	
+	//
 	//////multiple test cases -it randomly picks the test cases --it will create pair
 	 
 	
